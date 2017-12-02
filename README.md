@@ -18,4 +18,4 @@
 
 Demo: <a href="https://jsfiddle.net/tguruslan/zqdf50wf/4/">jsfiddle.net/tguruslan/zqdf50wf/</a>
 
-<iframe width="100%" height="300" src="//jsfiddle.net/tguruslan/zqdf50wf/5/embedded/js,html,result/dark/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<frame width="100%" height="300" src="//jsfiddle.net/tguruslan/zqdf50wf/5/embedded/js,html,result/dark/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></frame>

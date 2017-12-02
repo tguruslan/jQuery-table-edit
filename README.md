@@ -15,3 +15,6 @@
 ````
 можливості:
 Виділення, копіювання, вирізання, вставлення та видалення діапазонів клітинок таблиць
+
+
+<script async src="//jsfiddle.net/tguruslan/zqdf50wf/4/embed/js,html,result/dark/"></script>

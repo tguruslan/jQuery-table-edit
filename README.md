@@ -16,4 +16,4 @@
 можливості:
 Виділення, копіювання, вирізання, вставлення та видалення діапазонів клітинок таблиць
 
-Demo: <a href="https://jsfiddle.net/tguruslan/zqdf50wf/4/embed/js,html,result/dark/">jsfiddle.net/tguruslan/zqdf50wf/</a>
+Demo: <a href="https://jsfiddle.net/tguruslan/zqdf50wf/4/">jsfiddle.net/tguruslan/zqdf50wf/</a>
